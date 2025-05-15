@@ -82,8 +82,4 @@ var customStyle = '';
     minCitationCount: 5
 }; */
 var citations = null;
-/**
- * Path to your custom BibTeX file
- * @type {string}
- */
-var bibtexFile = '../literature.bib';
+
